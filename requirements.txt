@@ -1,0 +1,24 @@
+# Core NLP stack
+transformers==4.40.0
+datasets==2.19.0
+tokenizers>=0.15.2
+evaluate==0.4.1
+accelerate==0.30.1
+
+# Deep Learning backend
+torch>=2.2.0
+
+# Data handling
+pandas
+numpy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook
+jupyter
+
+# Utilities
+tqdm
